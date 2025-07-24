@@ -38,7 +38,7 @@ This project is perfect for showcasing basic web development skills in **HTML an
 3. Explore the beautiful travel destinations!
 
 ```bash
-git clone https://github.com/hasintaj/travel-website.git
+git clone https://github.com/HasinTaj/TRAVEL.git
 cd travel-website
 open voyage.html
 
