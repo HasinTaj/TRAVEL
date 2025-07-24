@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+    body{
+    background-image: url('Premium\ Vector\ _\ Various\ travel\ attractions\ in\ paper\ art\ style.jpeg');
+    width: 95%;
+    height: 95vh;
+    background-size: cover;
+    background-position: center;
+}

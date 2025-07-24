@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image: url('Premium\ Vector\ _\ Various\ travel\ attractions\ in\ paper\ art\ style.jpeg');
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+}
+.logo{
+    font-size: 20px;
+    font-weight: bold;
+    color:crimson
+    cursor: pointer;
+}
+.menu ul{
+    display: flex;
+    font-size: 18px;
+    gap: lem;
+    padding: 10px 20px;}
+
+.menu li{
+    list-style: none;
+    padding: 10px;
+}
+.menu a{
+    text-decoration: none;
+    color:crimson;
+}
+.menu a:hover{
+    border-bottom: 2px solid red;
+    transition: 0.4s linear;
+}
+.booking{
+    font-size: 20px;
+    color:red;
+}
+button{
+    font-size: 15px;
+    padding:10px 20px;
+    color:white;
+    background: rgb(255,106,0);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.section{
+    width: 500px;
+    padding: 30px;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 115px;
+}
+.section h1{
+    color: blue;
+    font size: 50px;
+}
+.section p{
+    color: white;
+    font-size: 12px;
+    margin-top: 12px;
+}
+.inp{
+    margin-top: 20px;
+    align-items: center;
+}
+input{
+    padding: 15px 130px;
+    border: none;
+    border-radius: 7px;
+    text-size-adjust: 20px;
+    align-items: center;
+}
+#btn{
+    background-color:crimson;
+    padding: 10px 20px;
+    margin-left: -94px;
+    border-radius: 5px;
+    align-items: center;
+}
